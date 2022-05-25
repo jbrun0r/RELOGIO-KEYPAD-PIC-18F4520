@@ -13,7 +13,7 @@ por _teclado matricial 4x3_ (componente _KEYPAD-PHONE_ no proteus).
 
 ## Design:
 
-![fundo](https://github.com/jbrun0r/RELOGIO-KEYPAD-PIC-18F4520/blob/main/RELOGIOTECLADO.png?raw=true)
+![fundo](https://github.com/jbrun0r/RELOGIO-KEYPAD-PIC-18F4520/blob/main/RELOGIOTECLADO.png?raw=true)\
 Utilizei o **Proteus Design Suite (Proteus)** para a criação do projeto eletrônico, composto por uma suíte de ferramentas, incluindo captura esquemática, simulação e módulos de projetos de placas de circuito impresso, usadas principalmente para o projeto de circuitos integrados. Utilizei O **MPLAB IDE** para gerenciamento do projeto e **Compilador C18**.\
 Seguindo as orientações do datasheet do PIC supracitado, escreveremos o código/lógica em linguagem .c e compilamos com **C18** para arquivo **.cof** ou **.hex.**
 ___
